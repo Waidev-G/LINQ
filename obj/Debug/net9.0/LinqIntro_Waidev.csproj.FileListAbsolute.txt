@@ -1,0 +1,14 @@
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\bin\Debug\net9.0\LinqIntro_Waidev.exe
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\bin\Debug\net9.0\LinqIntro_Waidev.deps.json
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\bin\Debug\net9.0\LinqIntro_Waidev.runtimeconfig.json
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\bin\Debug\net9.0\LinqIntro_Waidev.dll
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\bin\Debug\net9.0\LinqIntro_Waidev.pdb
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\obj\Debug\net9.0\LinqIntro_Waidev.GeneratedMSBuildEditorConfig.editorconfig
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\obj\Debug\net9.0\LinqIntro_Waidev.AssemblyInfoInputs.cache
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\obj\Debug\net9.0\LinqIntro_Waidev.AssemblyInfo.cs
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\obj\Debug\net9.0\LinqIntro_Waidev.csproj.CoreCompileInputs.cache
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\obj\Debug\net9.0\LinqIntro_Waidev.dll
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\obj\Debug\net9.0\refint\LinqIntro_Waidev.dll
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\obj\Debug\net9.0\LinqIntro_Waidev.pdb
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\obj\Debug\net9.0\LinqIntro_Waidev.genruntimeconfig.cache
+D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\obj\Debug\net9.0\ref\LinqIntro_Waidev.dll

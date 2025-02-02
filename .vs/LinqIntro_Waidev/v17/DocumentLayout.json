@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WaidevEpisodes\\WaidevTest\\Episode-2\\LinqIntro_Waidev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACA8DEA-A83F-49B0-A71B-0D57FCCE9E07}|LinqIntro_Waidev.csproj|d:\\waidevepisodes\\waidevtest\\episode-2\\linqintro_waidev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACA8DEA-A83F-49B0-A71B-0D57FCCE9E07}|LinqIntro_Waidev.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACA8DEA-A83F-49B0-A71B-0D57FCCE9E07}|LinqIntro_Waidev.csproj|d:\\waidevepisodes\\waidevtest\\episode-2\\linqintro_waidev\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACA8DEA-A83F-49B0-A71B-0D57FCCE9E07}|LinqIntro_Waidev.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACA8DEA-A83F-49B0-A71B-0D57FCCE9E07}|LinqIntro_Waidev.csproj|d:\\waidevepisodes\\waidevtest\\episode-2\\linqintro_waidev\\linqextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACA8DEA-A83F-49B0-A71B-0D57FCCE9E07}|LinqIntro_Waidev.csproj|solutionrelative:linqextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACA8DEA-A83F-49B0-A71B-0D57FCCE9E07}|LinqIntro_Waidev.csproj|d:\\waidevepisodes\\waidevtest\\episode-2\\linqintro_waidev\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACA8DEA-A83F-49B0-A71B-0D57FCCE9E07}|LinqIntro_Waidev.csproj|solutionrelative:customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACA8DEA-A83F-49B0-A71B-0D57FCCE9E07}|LinqIntro_Waidev.csproj|d:\\waidevepisodes\\waidevtest\\episode-2\\linqintro_waidev\\icustomerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACA8DEA-A83F-49B0-A71B-0D57FCCE9E07}|LinqIntro_Waidev.csproj|solutionrelative:icustomerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:460315825:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerData.cs",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\WaidevTest\\Episode-2\\LinqIntro_Waidev\\ICustomerData.cs",
+              "RelativeDocumentMoniker": "ICustomerData.cs",
+              "ToolTip": "D:\\WaidevEpisodes\\WaidevTest\\Episode-2\\LinqIntro_Waidev\\ICustomerData.cs",
+              "RelativeToolTip": "ICustomerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:30:36.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqExtention.cs",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\WaidevTest\\Episode-2\\LinqIntro_Waidev\\LinqExtention.cs",
+              "RelativeDocumentMoniker": "LinqExtention.cs",
+              "ToolTip": "D:\\WaidevEpisodes\\WaidevTest\\Episode-2\\LinqIntro_Waidev\\LinqExtention.cs",
+              "RelativeToolTip": "LinqExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:20:38.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\WaidevTest\\Episode-2\\LinqIntro_Waidev\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\WaidevEpisodes\\WaidevTest\\Episode-2\\LinqIntro_Waidev\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:29:14.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\WaidevTest\\Episode-2\\LinqIntro_Waidev\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WaidevEpisodes\\WaidevTest\\Episode-2\\LinqIntro_Waidev\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:05:13.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerData.cs",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\WaidevTest\\Episode-2\\LinqIntro_Waidev\\CustomerData.cs",
+              "RelativeDocumentMoniker": "CustomerData.cs",
+              "ToolTip": "D:\\WaidevEpisodes\\WaidevTest\\Episode-2\\LinqIntro_Waidev\\CustomerData.cs",
+              "RelativeToolTip": "CustomerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:03:03.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
